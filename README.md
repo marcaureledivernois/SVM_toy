@@ -40,7 +40,5 @@ Great with small datasets ! <1000 data points
 ## Credits
 
 * Siraj Raval
-
-* [maviccprp](https://github.com/MaviccPRP/svm/blob/master/svm-primal.ipynb)
-
+* Disclaimer : Code is used as an illustration of the README theory file. Code has been forked from [maviccprp](https://github.com/MaviccPRP/svm/blob/master/svm-primal.ipynb). I mainly corrected/updated it to make it work on my computers.
 * https://sites.psu.edu/symbolcodes/codehtml/#math
